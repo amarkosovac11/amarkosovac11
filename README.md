@@ -16,7 +16,7 @@ Tools: ModelSim, Logisim
 
 GitHub: @amarkosovac11
 
-LinkedIn: Amar Kosovac
+LinkedIn: [Amar Kosovac](https://www.linkedin.com/in/amar-kosovac-760a7b2a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Brkmw1TNqQ3Ov1BguSibyDQ%3D%3D)
 
 Email: amarkosovac11@gmail.com
 
