@@ -2,15 +2,15 @@
 
 ## :speech_balloon: **About Me**
 
-I am a passionate Computer Science Engineering student with experience in web development and digital design. Throughout high school and university, I have gained experience in programming languages such as Java, Python, C++, and C#. I enjoy working on projects that challenge me to learn new technologies and enhance my problem-solving skills.
+I am a passionate Computer Science Engineering student with experience in web development and digital design. Throughout high school and university, I have gained experience in programming languages such as Java, Python, JavaScript, C++, and C#. I enjoy working on projects that challenge me to learn new technologies and enhance my problem-solving skills.
 
 ## :wrench: **Technologies & Skills**
 
-Programming Languages: Java, C++, Python, C#
+Programming Languages: Java, C++, Python, C#, JavaScript
 
 Web Development: HTML, CSS, JavaScript
 
-Tools: ModelSim, Logisim
+Tools: ModelSim, Logisim, Octave
 
 ## 📬 **Connect With Me**
 
