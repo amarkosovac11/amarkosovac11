@@ -10,7 +10,7 @@ Programming Languages: Java, C++, Python, C#, JavaScript, SQL
 
 Web Development: HTML, CSS, JavaScript
 
-Tools: ModelSim, Logisim, Octave
+Tools: ModelSim, Logisim, Octave, Matlab
 
 ## 📬 **Connect With Me**
 
